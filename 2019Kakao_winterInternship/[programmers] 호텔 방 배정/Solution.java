@@ -9,7 +9,7 @@ class Solution {
         }
         return answer;
     }
-    public long findroomnum(long x){ //x is room number 
+    public long findroomnum(long x){ //x is requested room number 
         if(find.get(x)==null){
             find.put(x,x+1);
             return x;
