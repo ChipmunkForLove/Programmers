@@ -1,4 +1,4 @@
-/* 함수를 사용하지 않은 더 빠른 Solution */
+/* 함수를 사용하지 않은 더 빠른 Solution, 다른 사람 풀이*/
 class Solution {
     public String makeSharp(int n, int m) {
         if(n == 0) {
